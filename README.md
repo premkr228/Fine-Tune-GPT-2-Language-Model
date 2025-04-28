@@ -1,6 +1,5 @@
 
-![Colorful Futuristic Technology Poster](https://github.com/user-attachments/assets/37f0c34d-9a8b-41fe-8817-7fa9ead89879)
-
+![AI-generated-image-abstract-feel-1](https://github.com/user-attachments/assets/e707129d-353c-44b8-8502-178f237f815e)
 
 # Fine-Tune-GPT-2-Language-Model
 
