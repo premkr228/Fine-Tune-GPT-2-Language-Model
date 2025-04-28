@@ -1,3 +1,7 @@
+
+![Colorful Futuristic Technology Poster](https://github.com/user-attachments/assets/37f0c34d-9a8b-41fe-8817-7fa9ead89879)
+
+
 # Fine-Tune-GPT-2-Language-Model
 
 The code is a comprehensive script designed to fine-tune a GPT-2 language model using custom datasets. It begins by setting up the environment, installing necessary libraries like transformers, PyPDF2, python-docx, and torch, which are essential for processing text, handling various document formats, and training the model. The script includes functions to read and extract text from different file types—PDFs, Word documents, and plain text files—combining the extracted text from files located in specific directories. This combined text data is then saved into text files for later use.
